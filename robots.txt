@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap : https://BLOG24/sitemap.xml
+Sitemap : https://celebnew.github.io/sitemap.xml
